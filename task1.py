@@ -13,4 +13,4 @@ Sample output:
 """
 x = str(input("What is your name?")).strip()
 y = str(input("What is your email?")).strip()
-print (f"{x}:{y}")
+print (f"Your name is {x}, and your email is {y}")
